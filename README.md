@@ -62,10 +62,10 @@ The player wins only if they have successfully collected and used all vaccines a
 
 Here are some screenshots from the game:
 
-![Main Menu](Screenshots/MainMenu.png)
-![Champion Selection](Screenshots/ChampionSelection.png)
-![Game Play 1](Screenshots/GamePlay1.png)
-![Game Play 2](Screenshots/GamePlay2.png)
+![Main Menu](TheLastOfUs-Legacy-master/Screenshots/MainMenu.png)
+![Champion Selection](TheLastOfUs-Legacy-master/Screenshots/ChampionSelection.png)
+![Game Play 1](TheLastOfUs-Legacy-master/Screenshots/GamePlay1.png)
+![Game Play 2](TheLastOfUs-Legacy-master/Screenshots/GamePlay2.png)
 
 ## Project Information
 
